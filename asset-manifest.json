@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vercel-demo/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/vercel-demo/static/js/main.0e0434e9.chunk.js",
+    "main.js.map": "/vercel-demo/static/js/main.0e0434e9.chunk.js.map",
+    "runtime-main.js": "/vercel-demo/static/js/runtime-main.70c7aab5.js",
+    "runtime-main.js.map": "/vercel-demo/static/js/runtime-main.70c7aab5.js.map",
+    "static/js/2.eb0f368f.chunk.js": "/vercel-demo/static/js/2.eb0f368f.chunk.js",
+    "static/js/2.eb0f368f.chunk.js.map": "/vercel-demo/static/js/2.eb0f368f.chunk.js.map",
+    "static/js/3.077867c5.chunk.js": "/vercel-demo/static/js/3.077867c5.chunk.js",
+    "static/js/3.077867c5.chunk.js.map": "/vercel-demo/static/js/3.077867c5.chunk.js.map",
+    "index.html": "/vercel-demo/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/vercel-demo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.eb0f368f.chunk.js.LICENSE.txt": "/vercel-demo/static/js/2.eb0f368f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vercel-demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70c7aab5.js",
+    "static/js/2.eb0f368f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0e0434e9.chunk.js"
+  ]
+}
