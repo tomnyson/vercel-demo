@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/vercel-demo/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/vercel-demo/static/js/main.2abf3c6e.chunk.js",
-    "main.js.map": "/vercel-demo/static/js/main.2abf3c6e.chunk.js.map",
+    "main.js": "/vercel-demo/static/js/main.3a917a89.chunk.js",
+    "main.js.map": "/vercel-demo/static/js/main.3a917a89.chunk.js.map",
     "runtime-main.js": "/vercel-demo/static/js/runtime-main.bcdc099c.js",
     "runtime-main.js.map": "/vercel-demo/static/js/runtime-main.bcdc099c.js.map",
-    "static/js/2.2f4d5f6c.chunk.js": "/vercel-demo/static/js/2.2f4d5f6c.chunk.js",
-    "static/js/2.2f4d5f6c.chunk.js.map": "/vercel-demo/static/js/2.2f4d5f6c.chunk.js.map",
+    "static/js/2.0a6acd33.chunk.js": "/vercel-demo/static/js/2.0a6acd33.chunk.js",
+    "static/js/2.0a6acd33.chunk.js.map": "/vercel-demo/static/js/2.0a6acd33.chunk.js.map",
     "index.html": "/vercel-demo/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/vercel-demo/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.2f4d5f6c.chunk.js.LICENSE.txt": "/vercel-demo/static/js/2.2f4d5f6c.chunk.js.LICENSE.txt"
+    "static/js/2.0a6acd33.chunk.js.LICENSE.txt": "/vercel-demo/static/js/2.0a6acd33.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bcdc099c.js",
-    "static/js/2.2f4d5f6c.chunk.js",
+    "static/js/2.0a6acd33.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.2abf3c6e.chunk.js"
+    "static/js/main.3a917a89.chunk.js"
   ]
 }
