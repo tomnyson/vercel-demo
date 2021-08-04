@@ -99,8 +99,18 @@ function App() {
       console.log("account", account);
       const buyToken = await ercConstract.methods
         .mintBadie(15)
-        .send({ from: account[0] })
+        .send({
+          from: account[0],
+          contractAddress: "0x6590D6f9B8120aa30C36b9DF38CAAf7cA51175Dc",
+        })
         .catch((error) => {
+          console.log("error here", typeof error);
+          if (error) {
+            console.log("error detail", error.transactionHash);
+            web3.eth
+              .getTransaction(error && error.transactionHash)
+              .then(console.log);
+          }
           setMessage("");
         });
       console.log("buyToken", buyToken);
